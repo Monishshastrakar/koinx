@@ -2,6 +2,8 @@
 
 ![KoinX Tax Loss Harvesting Tool](https://img.shields.io/badge/Status-Completed-success?style=flat-square) ![React](https://img.shields.io/badge/React-18-blue?style=flat-square&logo=react) ![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat-square&logo=tailwind-css) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite)
 
+**Live Demo:** [https://monishshastrakar.github.io/koinx/](https://monishshastrakar.github.io/koinx/)
+
 A high-fidelity, interactive **Tax Loss Harvesting** dashboard built as an internship assignment for KoinX. This application allows users to identify opportunities to reduce their crypto tax liability by visualizing their holdings and calculating potential capital gains offsets.
 
 ## ✨ Features
